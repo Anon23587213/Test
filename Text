@@ -1,4 +1,4 @@
 imageUrl = "https://files.catbox.moe/ar0tcr.png";
-offsetX = 60;
-offsetY = 60;
+offsetX = 20;
+offsetY = 20;
 checkInterval = 30 * 100;
